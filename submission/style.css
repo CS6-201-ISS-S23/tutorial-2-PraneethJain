@@ -1,0 +1,28 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  display: flex;
+  justify-content: end;
+}
+
+.fifteen {
+  font-size: 30px;
+}
+
+.invert {
+  background-color: black;
+  color: white;
+}
+
+.color {
+  background-color: red;
+  color: white;
+}
+
